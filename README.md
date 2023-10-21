@@ -1,2 +1,5 @@
 # carl00710.github.io
-This is where I keep all assets for my BetterDiscord personal theme
+AYO IT WORKS!!!
+Hey there people I managed to create a very cool personal website, very proud of it :3
+
+Nooow... what will I do with this? Idk tbf, but it's nice.
