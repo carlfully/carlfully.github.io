@@ -4,3 +4,5 @@ Hey there people I managed to create a very cool personal website, very proud of
 
 Nooow... what will I do with this? Idk tbf, but it's nice.
 P.S.: I wanted to make this cool but idk how to add a box, or anything. I guess this will only be text!
+
+Also wanna know how to enable dark mode in this...
