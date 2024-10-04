@@ -1,6 +1,6 @@
 <!DOCTYPE html>
 <html>
-<style="background-color:#4c4c4c">
+<style="background-color:#4c4c4c;">
 <heading>
   Welcome!!
 </heading>
