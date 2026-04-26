@@ -1,0 +1,12 @@
+body {
+  background-color: hsl(240deg, 23%, 9%);
+}
+h1 {
+  color: hsl(343deg, 81%, 75%);
+}
+b {
+  color: hsl(226deg, 64%, 88%);
+}
+link {
+  color: hsl(199deg, 76%, 69%);
+}
